@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+nav{
+    display:flex;
+    gap: 44px;
+    background-color: rgb(62, 66, 66);
+    color:white;
+    padding: 13px;
+}
+li{
+    list-style: none;
+}
